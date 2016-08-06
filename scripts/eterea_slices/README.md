@@ -4,12 +4,12 @@ A set of poly slice presets by [Cristobal Vila](http://community.thefoundry.co.u
 
 ## Installation & Use
 
-\1. Download, expand the ZIP file and translate the “eterea_slices” folder to your Modo Scripts folder.
-\2. Open Modo.
-\3. Go to Menu System > Form Editor, open the “Forms” and search for **“ETEREA Slices Presets”** Form.
-\4. Right Mouse Button over it and choose “Assign to Key…”
-\5. Choose your preferred shortcut.
-\6. Close the Form Editor and enjoy.
+* 1. Download, expand the ZIP file and translate the “eterea_slices” folder to your Modo Scripts folder.
+* 2. Open Modo.
+* 3. Go to Menu System > Form Editor, open the “Forms” and search for **“ETEREA Slices Presets”** Form.
+* 4. Right Mouse Button over it and choose “Assign to Key…”
+* 5. Choose your preferred shortcut.
+* 6. Close the Form Editor and enjoy.
 
 You can find more information on the original post by the author of this, here: http://community.thefoundry.co.uk/discussion/topic.aspx?f=37&t=26386
 
