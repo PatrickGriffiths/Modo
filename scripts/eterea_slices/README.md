@@ -22,4 +22,4 @@ Feel free to modify these, the original author has expressed that you should mod
 
 * [Cristobal Vila](http://community.thefoundry.co.uk/community/profile.aspx?name=Cristobal+Vila) 
 
-You can see the author's website and other resources here: http://www.etereaestudios.com/error404.html
+You can see the author's website and other resources here: http://www.etereaestudios.com/docs_html/general_index_htm/resources.htm
